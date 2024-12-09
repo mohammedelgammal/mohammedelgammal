@@ -14,8 +14,6 @@ I'm a software engineer with a passion for building things that make a differenc
 
 📫 How to reach me: <a target="_blank" href="mailto: contact@mohammedelgammal.tech">contact@mohammedelgammal.tech</a>
 
-🌐 Visit my website: <a target="_blank" href="https://mohammedelgammal.tech">mohammedelgammal.tech</a>
-
 ㏌ Connect with me on LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/mohammedelgammal">/in/mohammedelgammal</a>
 
 <hr>
