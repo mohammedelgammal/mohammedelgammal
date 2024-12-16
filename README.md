@@ -44,15 +44,3 @@ I'm a software engineer with a passion for building things that make a differenc
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 
 <hr>
-<h2 align="center">👨‍💻 Showcase Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a href="https://github.com/mohammedelgammal/viz_sort" title="VizSort">
-  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedelgammal&repo=viz_sort&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/mohammedelgammal/g_atlas" title="Data Structures"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedelgammal&repo=g_atlas&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-
-<h4 align="center">
-  <a href="https://github.com/mohammedelgammal?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-<hr>
