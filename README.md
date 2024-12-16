@@ -12,7 +12,7 @@ I'm a software engineer with a passion for building things that make a differenc
 
 <div align="center">
 
-📫 How to reach me: <a target="_blank" href="mailto: contact@mohammedelgammal.tech">contact@mohammedelgammal.tech</a>
+📫 How to reach me: <a target="_blank" href="mailto: mohammed.ta.elgammal@gmail.com">mohammed.ta.elgammal@gmail.com</a>
 
 ㏌ Connect with me on LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/mohammedelgammal">/in/mohammedelgammal</a>
 
