@@ -17,28 +17,26 @@ I'm a software engineer with a passion for building things that make a differenc
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-
 <img width="50px" height="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python_256x256.png" />
-
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-
+<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img width="50px" height="50px" src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-512.png" />
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-
-<img width="50px" height="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-          
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-
+<img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/Redux.svg" />
+<img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg/" />
+<img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/Azios.svg" />
+<img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" />
+<img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/Python.svg" />
+<img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/Django.svg" />
+<img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/Node.js.svg" />
+<img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/Express.svg" />
+<img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" />
+<img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/MySQL.svg" />
+<img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" />
+<img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/Docker.svg" />
+<img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" />
+<img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/Linux.svg" />
+<img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/NPM.svg" />
+<img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/Cypress.svg" />
+<img width="50px" height="50px" src="https://techicons.dev/icons/pytest" />
 <hr>
