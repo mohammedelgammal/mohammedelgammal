@@ -7,13 +7,8 @@
 <p align="center">
 I'm a software engineer with a passion for building things that make a difference. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🌱.
 </p>
-  
-<br/>
-
 <div align="center">
-
 <hr>
-
 <img width="50px" height="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
@@ -35,5 +30,3 @@ I'm a software engineer with a passion for building things that make a differenc
 <img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/Linux.svg" />
 <img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/NPM.svg" />
 <img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/Cypress.svg" />
-
-<hr>
