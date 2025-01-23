@@ -23,7 +23,7 @@ I'm a software engineer with a passion for building things that make a differenc
 <img width="50px" height="50px" src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-512.png" />
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/Redux.svg" />
-<img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg/" />
+<img width="50px" height="50px" src=" https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" />
 <img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/Azios.svg" />
 <img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" />
 <img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/Python.svg" />
