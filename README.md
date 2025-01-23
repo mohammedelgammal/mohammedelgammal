@@ -38,5 +38,5 @@ I'm a software engineer with a passion for building things that make a differenc
 <img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/Linux.svg" />
 <img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/NPM.svg" />
 <img width="50px" height="50px" src="https://icon.icepanel.io/Technology/svg/Cypress.svg" />
-<img width="50px" height="50px" src="https://techicons.dev/icons/pytest" />
+
 <hr>
