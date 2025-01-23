@@ -12,10 +12,7 @@ I'm a software engineer with a passion for building things that make a differenc
 
 <div align="center">
 
-㏌ Connect with me on LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/mohammedelgammal">/in/mohammedelgammal</a>
-
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 
 <img width="50px" height="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
